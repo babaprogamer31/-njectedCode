@@ -1,0 +1,6 @@
+game.StarterGui:SetCore("SendNotification", {
+		Title = "Zeus";
+		Text = "Succesfull Attached";
+		Icon = "rbxassetid://6938860584";
+		Duration = 5;
+	})
